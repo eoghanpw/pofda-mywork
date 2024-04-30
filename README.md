@@ -1,1 +1,3 @@
-# pofda-mywork
+# Palmer Penguins
+
+Author: Eoghan Walsh
